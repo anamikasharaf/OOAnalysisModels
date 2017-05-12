@@ -14,8 +14,6 @@ Reusable Value Classes
 7. Gender (M, F, etc?)
 8. Title (for addressing letters, say)
 9. Ethnicity (for HR applications)
-
-
 Reusable Reference Classes
 10. Person
 11. Customer
